@@ -1,5 +1,4 @@
-# Programming-Fundamentals-with-Python-Sep-2022
-Programming Fundamentals with Python - September 2022
+# Programming Fundamentals with Python - September 2022
 In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University 
 
 Lecturer of course - Mario Zahariev and Ivan Shopov
